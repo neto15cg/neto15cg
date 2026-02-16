@@ -1,6 +1,6 @@
 # Olá, sou Eliezer Marques
 
-**Developer and hick.**  
+**Developer fullstack.**  
 Brasil
 
 [Site](https://eliezer-marques.click/) · [LinkedIn](https://www.linkedin.com/in/eliezer-marques/)
