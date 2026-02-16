@@ -29,9 +29,3 @@ Brasil
 [![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-2496ED?style=flat&logo=github)](https://github.com/neto15cg)
 [![Arctic Code Vault Contributor](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-2496ED?style=flat&logo=github)](https://github.com/neto15cg)
 
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neto15cg&show_icons=true&theme=default&hide_border=true)
-
