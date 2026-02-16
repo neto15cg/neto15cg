@@ -23,9 +23,3 @@ Brasil
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
-
-### Conquistas
-
-[![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-2496ED?style=flat&logo=github)](https://github.com/neto15cg)
-[![Arctic Code Vault Contributor](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-2496ED?style=flat&logo=github)](https://github.com/neto15cg)
-
