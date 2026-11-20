@@ -1,25 +1,26 @@
-# Olá, sou Eliezer Marques
+<img align="right" width="132" src="https://eliezer-marques.click/eliezer_m.jpeg" alt="Portrait of Eliezer Marques">
 
-**Developer fullstack.**  
-Brasil
+# Eliezer Marques
 
-[Site](https://eliezer-marques.click/) · [LinkedIn](https://www.linkedin.com/in/eliezer-marques/)
+**Software Engineering Specialist at Loggi**
 
----
+Backend architecture, distributed systems, and AI agents for customer support.
 
-### Trabalho com
+[English résumé](https://eliezer-marques.click/en.html) · [Portuguese résumé](https://eliezer-marques.click/) · [LinkedIn](https://www.linkedin.com/in/eliezer-marques/)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## Engineering at Loggi
 
----
+I oversee engineering for the Customer Experience (CX) team and develop AI agents for customer support. The system handles an average of **200,000 support requests per month**, and the agents handle **more than 70%** of them from start to finish.
+
+I also build integrations that send tracking updates, shipment statuses, and tax documents to marketplaces such as Amazon, Shopee, and Mercado Livre.
+
+## Selected projects
+
+- **[Idempotence Exchange](https://github.com/neto15cg/idempotence-exchange)** — Banking operations API built with Node.js, TypeScript, and PostgreSQL. It uses an idempotency key and a unique database index to prevent duplicate operations when requests are retried.
+- **[Personal website and résumé](https://github.com/neto15cg/eliezer-site)** — Bilingual Next.js site with static HTML and a print layout verified for PDF text extraction and reading order.
+
+## Technologies
+
+- **Backend** — Python, Go, Node.js, Django, and NestJS.
+- **Data and messaging** — PostgreSQL, Kafka, Amazon SNS, and Amazon SQS.
+- **Web** — TypeScript, React, and Next.js.
